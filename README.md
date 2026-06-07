@@ -142,7 +142,7 @@ To quantify the spatial yield pattern, each die was classified into one of three
 * Middle
 * Edge
 
-![Radial Distance Calculation](./Figures/radial%20distance_calc_for_wafer_region_analysis.png)
+![Radial Distance Calculation](./Figures/radial_distance_calc_for_wafer_region_analysis.png)
 
 ## Regional Yield Results
 
