@@ -202,19 +202,6 @@ Method B should not be moved to full-scale production without further process op
 * Wafer ranking showed Method A was more stable across wafers.
 * JMP was used to support data-driven semiconductor process decision-making.
 
-## Skills Demonstrated
 
-* Semiconductor yield analysis
-* Wafer-level process characterization
-* JMP statistical analysis
-* Confidence interval interpretation
-* Two-sample proportion testing
-* Wafer map interpretation
-* Spatial failure pattern analysis
-* Center-to-edge yield analysis
-* Engineering recommendation based on statistical evidence
 
-## Resume Bullet
-
-Analyzed 65,000 IC-level pass/fail test records from 50 pilot-manufacturing wafers using JMP to compare semiconductor process yield between two manufacturing methods; identified Method A as 21.71 percentage points higher yielding than Method B, with statistically significant improvement, stronger wafer-to-wafer stability, and reduced edge-related spatial yield loss.
 
